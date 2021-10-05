@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hris:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hris_jar</output-path>
+    <root id="archive" name="Hris.jar">
+      <element id="module-output" name="Hris" />
+    </root>
+  </artifact>
+</component>
