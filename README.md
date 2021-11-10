@@ -1,5 +1,5 @@
-# Hris
-## Human Resources application
+# Human Resource
+## Human Resources Management platform(Desktop)
 
 - designed in IntelliJ IDE and coded with java.
 - this system is designed to manage employees.
